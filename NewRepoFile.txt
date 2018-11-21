@@ -1,0 +1,4 @@
+I'm adding a file to my hello-world repo.
+
+Now I'm going to change the contents of this file
+AFTER I did a git add on it to see what happens when I do a git status.
